@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EMOJI_MODE_CHANGER/static/css/main.9788335f.css",
+    "main.js": "/EMOJI_MODE_CHANGER/static/js/main.ab32208d.js",
+    "static/js/453.401c3195.chunk.js": "/EMOJI_MODE_CHANGER/static/js/453.401c3195.chunk.js",
+    "static/media/logo.svg": "/EMOJI_MODE_CHANGER/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EMOJI_MODE_CHANGER/index.html",
+    "main.9788335f.css.map": "/EMOJI_MODE_CHANGER/static/css/main.9788335f.css.map",
+    "main.ab32208d.js.map": "/EMOJI_MODE_CHANGER/static/js/main.ab32208d.js.map",
+    "453.401c3195.chunk.js.map": "/EMOJI_MODE_CHANGER/static/js/453.401c3195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9788335f.css",
+    "static/js/main.ab32208d.js"
+  ]
+}
